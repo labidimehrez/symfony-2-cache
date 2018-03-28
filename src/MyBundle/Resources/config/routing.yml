@@ -1,0 +1,4 @@
+example:
+    pattern:  /example
+    defaults: { _controller: MyBundle:Example:cache}
+
